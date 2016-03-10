@@ -12,7 +12,6 @@ package algorithms;
  * @author YunKai
  *
  */
-
 public class PowerOfThree {
 
 	/**

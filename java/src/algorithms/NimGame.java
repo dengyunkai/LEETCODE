@@ -15,7 +15,6 @@ package algorithms;
  * @author YunKai
  *
  */
-
 public class NimGame {
 	public boolean canWinNim(int num) {
 		return num%4 != 0;
